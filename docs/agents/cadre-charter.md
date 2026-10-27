@@ -27,7 +27,7 @@ The orchestrator reads this list, so it is prose and not front matter.
 | --- | --- | --- |
 
 ## Documentation
-None. The repo has no docs folder.
+A change to behavior updates the docs in the same pull request.
 
 ## Only the human
 - Log in to the tracker command line tool, or switch its account.
